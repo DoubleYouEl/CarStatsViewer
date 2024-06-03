@@ -2,7 +2,7 @@
 
 ## Build Flavors
 
-Car Stats Viewer is divided in different build flavors depending on it's intended use case:
+Car Stats Viewer is divided in different build flavors depending on its intended use case:
 
 * Stable: Intended for general use by everyone. Only uses completed and mostly tested features.
 * Dev: Intended to only be used by developers while implementing new features. Many aspects are not stable for use and are only recommended for debugging.
